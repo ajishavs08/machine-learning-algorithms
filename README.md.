@@ -1,0 +1,26 @@
+# Machine Learning Algorithms
+
+This repository contains implementations of three machine learning techniques using Python and scikit-learn.
+
+## Algorithms
+
+1. **Classification:** Logistic Regression on the Social Network Ads dataset.
+2. **Boosting:** Gradient Boosting Regressor on the Insurance dataset.
+3. **Clustering:** K-Means Clustering on the Mall Customers dataset.
+
+## Tools and Libraries
+
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Evaluation
+
+- Classification: Accuracy, confusion matrix, precision, recall, and F1-score.
+- Boosting: MAE, RMSE, and R² score.
+- Clustering: Silhouette score and cluster visualization.
+
+## Status
+
+Models are being developed and evaluated as part of a machine learning assignment.
